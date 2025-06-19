@@ -100,7 +100,7 @@ border-radius:  00px 10px 10px 00px;
     justify-content: end;
 }
 .hero{
-    background-image: url(.vscode/AmazonBack.jpg);
+    background-image: url(images/AmazonBack.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
